@@ -15,9 +15,9 @@ git config --global user.email "b00148917@mytudublin.ie"
 git config --global user.name "Markone"
 
 #VSCode
-sudo snap install --classic code
+#sudo snap install --classic code
 
 #Chrome
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg -i google-chrome-stable_current_amd64.deb
-rm go*
+#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#sudo dpkg -i google-chrome-stable_current_amd64.deb
+#rm go*
